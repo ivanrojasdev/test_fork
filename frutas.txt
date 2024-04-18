@@ -1,3 +1,5 @@
 - Platano
 - Manzana
 - Uva
+- Pera
+- Naranja
